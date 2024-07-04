@@ -10,7 +10,7 @@ namespace runner
         public static void Load()
         {
             Console.WriteLine("Hello World!");
-            File.WriteAllText("test.txt", "Hello World!");
+            File.WriteAllText("test.txt", "Hello World!1");
 
 
         }
