@@ -1,0 +1,14 @@
+/home/mike/projects/hello-sharp/runner/bin/Debug/net8.0/runner
+/home/mike/projects/hello-sharp/runner/bin/Debug/net8.0/runner.deps.json
+/home/mike/projects/hello-sharp/runner/bin/Debug/net8.0/runner.runtimeconfig.json
+/home/mike/projects/hello-sharp/runner/bin/Debug/net8.0/runner.dll
+/home/mike/projects/hello-sharp/runner/bin/Debug/net8.0/runner.pdb
+/home/mike/projects/hello-sharp/runner/obj/Debug/net8.0/runner.GeneratedMSBuildEditorConfig.editorconfig
+/home/mike/projects/hello-sharp/runner/obj/Debug/net8.0/runner.AssemblyInfoInputs.cache
+/home/mike/projects/hello-sharp/runner/obj/Debug/net8.0/runner.AssemblyInfo.cs
+/home/mike/projects/hello-sharp/runner/obj/Debug/net8.0/runner.csproj.CoreCompileInputs.cache
+/home/mike/projects/hello-sharp/runner/obj/Debug/net8.0/runner.dll
+/home/mike/projects/hello-sharp/runner/obj/Debug/net8.0/refint/runner.dll
+/home/mike/projects/hello-sharp/runner/obj/Debug/net8.0/runner.pdb
+/home/mike/projects/hello-sharp/runner/obj/Debug/net8.0/runner.genruntimeconfig.cache
+/home/mike/projects/hello-sharp/runner/obj/Debug/net8.0/ref/runner.dll
