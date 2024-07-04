@@ -12,3 +12,4 @@
 /home/mike/projects/hello-sharp/runner/obj/Debug/net8.0/runner.pdb
 /home/mike/projects/hello-sharp/runner/obj/Debug/net8.0/runner.genruntimeconfig.cache
 /home/mike/projects/hello-sharp/runner/obj/Debug/net8.0/ref/runner.dll
+/home/mike/projects/hello-sharp/runner/obj/Debug/net8.0/runner.sourcelink.json
