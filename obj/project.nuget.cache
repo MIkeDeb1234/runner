@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H2/eD2HaNTQ=",
+  "dgSpecHash": "E1dk3BUCTjA=",
   "success": true,
-  "projectFilePath": "/home/mike/projects/hello-sharp/runner/runner.csproj",
+  "projectFilePath": "D:\\runner\\runner.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
